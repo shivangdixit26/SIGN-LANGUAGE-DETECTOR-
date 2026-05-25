@@ -1,0 +1,21 @@
+# Raspberry Pi Deployment Requirements (PyTorch inference path)
+# NOTE: 6_pi_inference.py and 6_pi_inference_mobile.py load model_quantized.pt
+# using torch + joblib (not tflite-runtime).
+
+# PyTorch runtime (CPU)
+torch>=2.0.0
+
+# Hand landmark extraction
+mediapipe>=0.10.0
+
+# Video capture and image processing
+opencv-python>=4.8.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Model label loading
+joblib>=1.3.0
+
+# Optional but useful for image/debug handling
+Pillow>=9.5.0
