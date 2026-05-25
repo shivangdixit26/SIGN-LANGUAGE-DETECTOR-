@@ -51,7 +51,8 @@ Output (26 classes: A-Z)
 
 #### 1.1 Clone/Download Project
 ```bash
-cd c:\Users\HP\Desktop\simulation lab proj
+git clone https://github.com/shivangdixit26/SIGN-LANGUAGE-DETECTOR-.git
+cd SIGN-LANGUAGE-DETECTOR-
 ```
 
 #### 1.2 Create Virtual Environment (Recommended)
