@@ -1,7 +1,9 @@
 # Real-Time Sign Language Interpreter
 ## Complete End-to-End Pipeline for PC & Raspberry Pi
 
-A modular, production-ready system for real-time ASL letter recognition using MediaPipe hand landmark extraction and lightweight neural networks.
+A modular, production-ready system for real-time ASL letter recognition using MediaPipe hand landmark extraction and lightweight neural networks. Optimized for edge deployment with minimal latency and model footprint.
+
+**Status**: Complete | **Python**: 3.8+ | **License**: MIT
 
 ---
 
